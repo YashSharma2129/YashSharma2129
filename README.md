@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Sharma</h1>
 <h3 align="center">Yash Sharma is a dedicated Backend Developer and Full Stack Developer with a passion for crafting scalable and efficient digital solutions. With a diverse experience across multiple projects, Yash excels at enhancing user engagement by implementing innovative features that elevate the overall user experience,possesses a strong foundation in programming languages such as Python and C++, enabling him to tackle complex challenges and deliver high-quality code. In addition to his technical skills, Yash has cultivated strong leadership abilities through collaborative teamwork and academic projects. He believes in the power of effective communication and collaboration, which drives successful project outcomes. Yash is committed to continuous learning and growth, always seeking opportunities to expand his skill set and stay updated with the latest technologies.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsharma2129&label=Profile%20views&color=0e75b6&style=flat" alt="yashsharma2129" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashsharma2129" alt="yashsharma2129" /></a> </p>

@@ -21,7 +21,7 @@ A dedicated Backend and Full Stack Developer with a passion for building scalabl
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yashsharma2129&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YashSharma21293&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YashSharma2129&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashsharma2129&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies

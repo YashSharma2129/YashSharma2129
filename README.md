@@ -41,9 +41,6 @@ I am dedicated to building scalable, efficient solutions with expertise in Pytho
 #### 🚀 **Personal Portfolio Website**  
 Built a personal portfolio using React and hosted it with Vercel, showcasing my skills and projects.
 
-#### 🛒 **E-Commerce Application**  
-Developed a full-stack e-commerce application with React, Node.js, and MongoDB, implementing features like secure user authentication and payment processing.
-
 ---
 
 ### 😂 **Random Dev Meme**

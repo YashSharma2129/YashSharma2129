@@ -9,7 +9,7 @@ I am dedicated to building scalable, efficient solutions with expertise in Pytho
 
 Feel free to reach out for opportunities, collaborations, or any other inquiries.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yasshsharmaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-sharma-a7a074236/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YashSharma_21)  [![Gmail Badge](https://img.shields.io/badge/-yash25578@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yash25578@gmail.com)](mailto:yash25578@gmail.com)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yassharmaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-sharma-a7a074236/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YashSharma_21)  [![Gmail Badge](https://img.shields.io/badge/-yash25578@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yash25578@gmail.com)](mailto:yash25578@gmail.com)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230A9F3D.svg?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/yash2c6wf/)  
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/u/lucas_legend/)  
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23CC8D00.svg?logo=CodeChef&logoColor=white)](https://www.codechef.com/users/lucas_legand)

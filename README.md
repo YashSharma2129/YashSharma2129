@@ -5,9 +5,21 @@ I am dedicated to building scalable, efficient solutions with expertise in Pytho
 
 ---
 
-## 🌐 Socials:
+## 🔭 Currently Working On:
+- Hotel Management System for database coursework
+- Building my personal brand: Yashify
 
-Feel free to reach out for opportunities, collaborations, or any other inquiries.
+## 🌱  What I'm Learning:
+- Generative AI and its real-world applications.
+
+## 💼 Open to:
+- Collaborations on exciting open-source projects.
+- Opportunities to contribute to impactful software solutions.
+
+---
+
+## 🌐 Connect With Me:
+Reach out for collaborations, opportunities, or any inquiries:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yassharmaa) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-sharma-a7a074236/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/YashSharma_21)  [![Gmail Badge](https://img.shields.io/badge/-yash25578@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yash25578@gmail.com)](mailto:yash25578@gmail.com)  
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%230A9F3D.svg?logo=GeeksforGeeks&logoColor=white)](https://www.geeksforgeeks.org/user/yash2c6wf/)  
@@ -20,11 +32,19 @@ Feel free to reach out for opportunities, collaborations, or any other inquiries
 
 
 
-
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat-square&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=flat-square&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=flat-square&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=flat-square&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white)
 
 ---
+
+
+# 🎓 Certifications& & Achievements:
+- **Postman API Fundamentals Student Expert**  
+- **Build an AI Text Summarizer App** (Postman Academy)  
+- **Career Essentials in Generative AI** (Microsoft & LinkedIn)
+- - GSSoC Contributor Badge
+- 2+ Years Experience in Full Stack Development
+
 
 ### 📊 **GitHub Stats:**
 
@@ -48,28 +68,6 @@ Feel free to reach out for opportunities, collaborations, or any other inquiries
 
 ---
 
-### 😂 **Random Dev Meme**
-
-<div align="center">
-  <img src="https://dz2cdn1.dzone.com/storage/temp/13990138-code-21.gif" alt="Random Dev Meme" style="height: 200px;" />
-</div>
-
----
-
-### 🌟 **Certifications & Achievements**
-
-- Microsoft Certified: Career Essentials in Generative AI
-- GSSoC Contributor Badge
-- 2+ Years Experience in Full Stack Development
----
-
-## 📄 Resume
-
-[![Resume Badge](https://img.shields.io/badge/Download%20Resume-%2300C7B7.svg?style=flat-square&logo=google-drive&logoColor=white)](https://docs.google.com/document/d/1141U1UaLHTzMKk5TYBJl2fgr3AQB-FbrT4Xqd7h4aYY/edit?usp=sharing)
-
-
----
-
 ### 🏅 **GSSOC(24) Badges 🪶**
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
@@ -88,3 +86,16 @@ Feel free to reach out for opportunities, collaborations, or any other inquiries
     <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" />
   </a>
 </div>
+
+---
+
+# 💡 Fun Fact:😂 Random Dev Meme
+<div align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Random Dev Meme" style="border-radius: 10px; max-height: 200px; box-shadow: 2px 2px 8px rgba(0,0,0,0.3);" />
+  <p><i>"When your code works on the first run!"</i></p>
+</div>
+
+
+---
+
+### 🔗 Connect with me and let's build the future together!

@@ -93,16 +93,17 @@ I'm always open for collaborations, opportunities, or just a friendly chat. Feel
 ### 📊 **GitHub Stats:**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma2129&layout=compact&theme=radical&hide_border=true" alt="Yash's Top Languages" style="border-radius: 10px; animation: fadeIn 1s ease-in-out;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashSharma2129&layout=compact&theme=radical&hide_border=true" alt="Yash's Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashSharma2129&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Yash's GitHub Stats" style="border-radius: 10px; animation: fadeIn 1s ease-in-out;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YashSharma2129&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="Yash's GitHub Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashSharma2129&theme=radical&hide_border=true" alt="Yash's GitHub Streak" style="border-radius: 10px; animation: fadeIn 1s ease-in-out;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashSharma2129&theme=radical&hide_border=true" alt="Yash's GitHub Streak" />
 </div>
+
 
 ### 🏆 **GitHub Trophies:**
 <div align="center"> 

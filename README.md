@@ -1,4 +1,12 @@
 <div align="center">
+  <a href="https://linktr.ee/yashh2129" target="_blank" title="Yashify Hub">
+    <img src="https://img.shields.io/badge/Yashify%20Hub-39E09B?style=for-the-badge&logo=Linktree&logoColor=white" 
+         alt="Yashify Hub" 
+         style="margin: 15px; border-radius: 10px; box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.3); padding: 12px; font-size: 20px; transition: all 0.3s ease-in-out;" 
+         onmouseover="this.style.transform='scale(1.15)'" 
+         onmouseout="this.style.transform='scale(1)'" />
+  </a>
+
   <table>
     <tr>
       <td>
